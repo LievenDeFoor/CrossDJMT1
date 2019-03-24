@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<main>
+  <version major="1" minor="0"/>
+  <controller kind="midi">
+    <id ID="3580914537"/>
+    <properties Model="DJM T1" Manufacturer="Pioneer" Version="0.1" Publisher="Lieven De Foor"
+                PCDevice="" MacDevice="" HiRes="off"/>
+    <icon Data="8742.IBkSG0fBZn....PCIgDQRA....D....PHX....fpoEm2....DLmPIQEBHf.B7g.YHB..f.PRDEDU3wY46kEibdckde268eu15ZoWqta1qr4RytIEknD05HJIHYYXKaoHaOYF3YRlLHCBBP.lmxKIf7g.j7vf.D.ADGjXLShQx.KGSYoYFKKYYKYIJQszboa1rYuuUc0aU00d8udu27P2cYRQRYIGY+xbA9QgpveU259c9Nm628bN+.+i7A42GShTJu444yZNkMtIBQ9YbeeoMT9c0O7dKZJ.nKszRLCCClppJiwXTBgPIDB4ltWoTJEbNW366ycbb3RojC.A.D+tDL9RkAbSKZ1FargpoooNmyCIDhPJJJVBgvTHDF999pBgPYu4WJDh.Jk5SHDGUUUaBgTmRo0XLVMaaa21ZqMe.vwuC.iuTX.6uvWc0U0hFMpoPHhXXXDG.oHDRKQhDo4wFar3111QiFMZ374ya99u+6qQHDlTJ4CLv.dUqV0t81auZ974K+09ZesBoRkZaGGmsTTTxUnPgBTJsR4xkskRoG9RDH9+KFv9K7kVZI0DIRDx00MY3vga2zzrqs2d6tWYkU5b1Ymss268dujkJUJbwhEMqTohQkJUz788YtttTCCCguuOG.dBESGCcc61ZMQ0d6pq78zSOazau8lYzQGck95quUEBw5ttt42Ymcp0SO83+kAP7aM.HkRJ.TJUpTHWW2jZZZc455NvBKrvAWc0U6ckUVoiqcsqkb5omN5zSOsQgBETA.C6EW3SM2R.HBSfHoI3KWG9.voqt5pb2c2c9SbhSjcjQFYw96u+Y5t6tmq4ladU.jOVrX0.P.gPD+dC.12puwFaXnpp1DgP5lRoCs81aejKe4Kenqcsq08O5G8iRM0TSEF.5XW2LJgPHTJ8VlS4duQWA3vcDCmn6VkmpiD3+5UWVd0oxH3RD..W.TUWWO2YNyYV4oe5m9F2+8e+Wuqt5ZZCCiU788K1Vas4feKYCeg.f8V7rBEJDJHHnUNmePoTN55qu9Hat4lCbgKbg1+9e+uejs1ZKcoTx169IDBA2TPe..vkR.IATJA+QmNM9W7XG.izULXnwv2+cVF+WdyEvzqWSpvHRBAbEEEWUU0JLFa8SbhSL229a+sG+q+0+5WkwXynnnrY73wqA.9WTP3ycPv8VLJkKWNJgP5xxx5XyN6rmTJkiJkxdRkJUht6tay3wiyVe80oDBAJJ29OOA.d99fPUvCOTB7Bmrc7GbjlwQ5LJTMU.743abecf0J5h+i+CySXTBgwnT.Iqd855AAAg9vO7CSTnPgVlXhIZ9q+0+5wGczQmnb4xqFMZzxRoL3KBHv9Br3UqToRSRoruZ0pceW5RW5QlbxIOUznQ62vvHoTJMMLLXCLv.z4laNjKWNnpph8s96x.HPHA5MUH7b2Sa3e1C2E9iNc2nitiAtS.xlyFlJLzTRSzjJEaV1CqVvENARnqpPT0znlllZbN2b0UWM5LyLS7hEKZoppRRlLoqhhhybyMm+K8Ruj3bm6bet.feiLf8s7UpTIlmmWeBg39+vO7Cevye9yer23MdiN9K+K+KCM5nip7POzCQbccw8bO2ClXhIvJqrB3bN1yuuwHPHvI6qI7u9LG.2yAiCWaAr2tF93EKgoxVEesi2JRS.NR6gv+lm3.HSQOLY1ZPRnPgQI.fXXXnaYYEWHDZu5q9pFYyl0rVsZZO0S8TjDIRr..J94kI7Yx.12muToRQkRYe1112+0u90ej+l+l+lQO+4OeZ.DpZ0pJOwS7DjgFZHToREvXLXYYg74yiolZJnppBFisKKfR.kRQEGANPRSbeCzDrq6i+6uaF7e3ueAbwEJivZDzcbcjHpFLoDnqPQlhdX8JbXnw.kRwdAToLFS0vvvLe97g2d6s0YLFuyN6rpsscsXwh4e1ydV4uIlvuIF.sPgBg.PmTJ8DevG7Am9G9C+gi7Zu1q0giiiEkRYe7G+w3Mey2Dc0UWHd73v22G2y8bO3odpmBW9xWFkJUBbNuQ7.FCX8x930FOGBD.WKaM79KTBytkCTnD7e68VGGHgAR2pAhpQQ.WBAnfwnfwXPJkfPHfRoDBgnvXrP111cL1XiA.Dzau85d3CeX2EVXgk6qu9phcUP9EmAHkRR1rYM.PaQiF83u669tOxO5G8itmye9y2oiiSnnQixHDBbbbP974QjHQvQO5QgiiCrrrfooIBBBvbyMGpWuNTTTfPHfTHfqe.1rnM93EKf29F6fsJ4.cF.g.jsfKzUoP5Iv6sPE7yltLVtnG.gBUEFXrcuTTT.kRgPHnFFFJISlTengFxnu95CwiGuJiwJ533X+W8W8WE7YwBtiLf8C5oppFiwXCrzRKcuu0a8Vi729292l1xxxxvvfs+1ZQhDASN4j30e8WGm3Dm.s1Zqfy4n0VaEO2y8bXhIl.iO93..vzzDJJJPgwf.DHjRLPbFHD.oTBNmCNmiOLiKd+kWAkbDfPnPgxfoNYeKeifpT5trhVasU1PCMj0i+3OdZNmORoRkJEKVrBppp0lbxICjRo+cKdvcyEfVnPASBgzopp5Hu5q9pi7JuxqzskkUXEEkai0DNbXL8zSievO3Gf+h+h+BjHQBXaaiPgBgu427ahJUpf74yiG4QdDzRKsfVasUXYEB6e5WNmi50qi74yi0VaML+7ygrYyBH3PUiAEEVCcD6C.AAAPWWGiN5n3zm9zPWWm466GF.cmISlQzzz1zzzLuooYcrqavczU31..oTRVZokTiGOdRNmevO3C9fQ9k+xeYuqt5pQiFMpB4SqnYOK6N6rCt3EuHFczQwoN0oP3vggllFNwINALMMQkJUPqs1JTTTfllVicGDBAjRI788Q6s2N5omdvvGaDr0VagEWXAb8qOIrssgllFXLFBBB.gPPe80GN4IOI5pqtP5zoQnPgHqu95JgCGN5ZqsVuat4lizRKsr1INwIxuzRK4Jkx6nRw6DCfFOdbKJk1QlLYNxK+xu7f23F2HYnPgzzzztqJGkRIxmOOdkW4UfttNtu669..PznQwC+vOL3bNpVsJ777fqqKBBBfTJgPrqLdUUUXYYgjISBMMM333fU5uOzVashabiafM1XCHkRzRKsfN6rSLxHifCcnC0.HcccQ73wISLwDZKt3hIKVr3f8zSOKOv.CrbKszRQ.r+Qpu6.fTJIyN6rJszRKMUtb49mYlYF5i9nOpihEKZEMZT5u99180alKnnn.oThImbRrvBKfidziBMMM366Ceeev4b366CaaaTudc344AgP.gPzvede1gmmGnTJ5omdPu81KRmNM9fO3CPsZ0vwN1wvwO9wQxjIgiiSCPzwwAarwF3sdq2hZaaa4440QPPvPqs1ZyDIRjryN6r0tSrfOMCfjJUJCKKqVuvEtv.uwa7FGHHHHpkkkBkRI6u38ERPH.5LRCvfy4PUUEszRKHUpTPQQAAAAfwXMnu4ymGSN4jXpolBarwFv11F..555n4laF80WeXvAGDszRKfPHM.oicrig1aucTpTIzRKs.CCC366CEEEXXXfs1ZKLwDSfYlYFvXLR0pUUhGOdTJkdfYmc1AZqs1lYvAGL+drfOS.fIDhHRory0We89t3EuXyarwFFoRljDHIviKglBEOU+FvIPh2YQaDVi.JYWe4Xwhgm9oeZzau8BGGGnnnfXwhgUWcUL1XigImbRr0Vagc1YGXaaCNm2f8jKWNjMaVb0qdUb3CeXbxSdRjNcZTqVMXXXfPgBAGGmFZAnTJpWuNt90uNle94wZqsFrssgppJZt4lI111FAAAMO4jS12QO5Q6THDqN1XiUG6llsaG.1aeeUCCilVXgE59m+y+4o2Zqsh1Rqso3IHDCEfgSnhQZWGe0CEBqUzGaVGHecAp43hDIRfie7iiQFYDDNbX366CoTholZJbwKdQ7du26gUyjA5ZZPQQApppPQQoQzcWWWjMaV355hs2da333f68duWzUWcAJkBWWWnpphff.344gb4xg4medL8zSis2daPHDDNbXPoTDJTHhsssBiwhlKWtzYyls6hEKNU6s29NeZIx2LCfXYYowXrDW4JWIc850SEOdbCcMUhEkfgaQEO2QBgmpOSDIFEKrNEOw.gv+vLNnpGG80We3Tm5TPJkvwwA555X6s2F+re1OCW4piCa65n0VZFR4d4AfP.cOeer262+x11Fu+6+9nPgB3a7M9Fns1ZC.6xxzzzPwhEw3iONFe7wAkRanuX+sH26yHgBExv22OU1rYSu1ZqkHZznY5niNbtY2fa9jJTeeeSOOulylMaGqrxJwJTnjhotJ46LZX7u8wSfyLfEXJ.fKgAiBSUJHTBZqs1Pu81KhEKFHDBzzzvVasE9U+peEla9EPcONrrBiXl6Z0EDE.hRCUcLlBnLEP2SgmkkEXLF1XiMvEtvEPtb4PjHQfllFrrrPtb4vVasETUUgllFz1iUsOyRUUEc1YmjM1XCEoTFaqs1pis2d6l000Me629sukSmorO8G.LoTFxwwo4UVYyTlReqm8vIYO28EEmncUzYSJPgR.mKv6unGdy48vDaIfSfDC22tQq22ZVudcL+7KfIl3ZHHvC+SOdTbhNzfKWBKUBVsrDWXUNlLm.gToPkBvnT.BfTRfjPfuffJNA3ZSNI5s2dQ6s2dCqb6s2NZs0VQwhEgtt9srKx9+GXLFLLLXIRjvhRoo1YmcZ111NT5zo2QJkMRbRCWfrYyxTTTBMyLyjX6hkizdST0mdfDjmaHCPUIntmDqVRfqto.+r4BvkWW.OACFlVnqNSijISBNmCcccrwFafYleAPBrwyc3H3jo0gD.kpIgFghizhDJLA7.G4bnXjTRDUEX5RLTzkBNgftLknIV.luXcrvhKht6tazQGc..f95qOr4lah4mednooABgBAgAohJzTHPSsQrER974Umd5oi366mXjQFIT4xkuEkrM..MMMliiiYgBEh4HpYoinJbAPIGAhBJ3bfUKKv+yqEfrUXvPmhnpLDJTHDIRDvXLHDBnnnf0xlEExmCGJcL7sOpFd6Uk3+yTbTwEHPB77CBbp1H3INfJd0EY3AS6iVLjHyzJvmvPLMAFNlGhqJQYDFqu4VXkUVEoSmFRoDQiFEISlDlllPUSCLJElJ.JDNpyoMBTtKSbdkYlYFKUU0X111lppp2Y.fwXT.XjKWtHJttFWuXUZ5fzjG0min5bDhQPuQIXvjpvQ.35KfllJRlLIz00ar0DmyQthkQHhCNVKZXsJRLeQB7jpnIK.InXwpRbf5bzaTIzzTPDEOHk.a5qidCyw2r8xfQ.961LN3LUDXaiJUJiff..rqlCSSSjJUyntqGTIbbeQJhdI4w2eVEb0Uxis2ZSTuZUhPHn.vvyyKRwhEMBGN7sGC..DJkREBgVwhEs.fVSM0Dc0ZJ3cVShmLs.sGQfXZ.OW+DTiqhqrIPS5pHd73vvvnQD7pUqh5NdHkAvAhQvJUHHuGCZZLXpAHjD3BIBDBDUgijVJvlSgkh.mJU.tulpfBbcLY0nHmz.JZDD33BGGG355BFiAeeenpoiDMECj0WBORr73wRUEA113OHV.tT9rXsUyCcMB1KUzZAAAVUqVUSUUc+TxKukcAHDBMHHPsZ0p5bNWsZcaJmpg2YcSbihL34KfJD3AZ1GOTabjNJEJp5HTnPPUUETJsw90fPQbKUjPSfbtL3CMDxTCZZ5PQSGILUfFkfZ9DzQX.SJG8nUCOQyUfC0.ue0lwDtIAU2BVVgZr+tsscC0g0qWGYxjAW8ZWGrcVDoXUQXcfmpKId3zLDyRCRl59La0ff.850qq544cGY.6SsnSO8zJ555zCNP+.DBxEPw0JIQ2gBPml9vIPhtBIQ+MQwhdZPQQ8V1+kwXPSUCJApfH7gNCPUUAJPCJL.hjhdB6fPJRjw0.saxQbEARRcgqpD+3BcgM4lHll.PJfuOGNNNvyyC999MXZ6jOG9jKeYbkImAs6GFcFuCLbqpnslLw+jim.aTWf+9aTdOiMnRoTIHHfB.b1yd16L..r6o51KnHHDBTTAtVkHn6hAnSMGLYYS7d6DEq3oAKCUvXzFVeoTBMMMXXnAm5pnnGG8Y4gkcCi0klvPQ.EPvvgpASlDiUKANhUIrZPDTotAhScvnVUvUpsa.25k2AkJVDKs7xHHHnwoJCBBfqqKbcbQXCE72MUEbfDEwHs1Fb7E3g5IDVofG9nL1nrKe+Xbfwt8DfcK..iwDG5PGJXqs1R333fvgCC.I73DLgqNplOFVstJxJ0ftEPH8ecBO2eRhDIBRDID1pbbrffimJ7534TKgi4F.FEnW8ZvB.ue4XXSGBdP8xX1B.+zM4nCRE7BCTBu+Bd3sl1FQfKrcb.myAiw.myaXfpWuN1d6s.CRTptDu5TkQeIzvW6vQQaMoh+fdCg+U2eb789nhnRYHHLVfhhxsUBsa9r.BNm6mKWN2EWbQeWWWQ5zoY6OgiKI3JfBUMFzTB.SvgCDnVsZMR+89p3nPfL4Jg50XfqUGoUcgIaavEbrlaYbohF3syWAFJ.ccu0wGrtM96FqN5vzCOSBcDuVUf70vZ9.7f.brgGF81auv22GTJEUqVE4xkCEJVDREcnaoflCozfAG3xQOwUv2Z3H3M9vphUA7IJJtgBExWSS6NdXHYrXwDqu95dqt5p0Ge7w8rssEEKVrAhC.vTTPrnQaXMTTTP0pUQpToPas0FnTJLLL..vNajAKTtL9ENbzrFG8X5.puK9nM7vlUCfuW.NPBUrUuMi4VuF1biJ.ITwOcIJNPSl3I6igyOuCzYLL3fChd5omFoAKSlLXkUVELBPDCFNdGl3e98DGO+vQgmPhZdAv0WfkK3ivs5In6P8BYZVOb3vd0qWWbyoK+lcADRozQQQohuuuCmyEYxjQJkRxt6YP.gfFRM2O8zZZZn+96GCO7vHHH.bNGCLv.3RW5RXrKcIXZYAGJEYIBPj.tb.CMFzUYnrOve1qWDU8kHTXU3KH3UmyEu3fFnES.MFCszbKXfAF.szRKMbEVMSFrzpYPxvZ3ObzX3EFNJNRKFvOP.SEfhdB7xWqL9u8wEkKrCWXEJrSXSyJBgv4tw...3LFyNQhDkzzzpWoRkf6P5+ZvHDBQCEWas0VM1iNHH.CMzP3AdfG.W9xWF6ryNvUBvTTgD.JzcAQJ1s.oKVlCcFAZJTH.vxUD37y4.aWGDxLJNyYNCFXfAZj4HcccL4jWGSc8qigRXhW7HQv81wt5E77E3hq3hexTUv+vr0vBE7.UvCZJd75oRkpTPPfspp5sjVraA.nTZst5pqchGOdk74y6yXr8qfciAgPZ3K1byM2PituueC4vgBEBm9zmF6ryN30dsWCqrxJPx8gllVieCoTBJgfHZ+5JGKjRDvE3RYcPys1Jd7G9Av8cu2KhFMJDBAXLFlat4vTSccTHeNDDqYrZo.bjl4vot.+7Eswe+L0wqOWcrSs.D0jJcr49s2byURkJ0NJJJ0TTTtc.fPHRoTxUUUq0e+8ucznQyw475DBIBt0iLCoTBUUUjHQBL7vCim9oeZzd6s2XQPHDToREzd6siW3EdATqVM7Nuy6f0We8aiE8oeOkPfkoARlHNd3G9gwy7LOCHDRiCYUtbY7lu4ah0xjApFlX4hA3k9jRfRjnhm.+mtPIjoBGR.jHjBDRIWHD0aqs1xkNc5sCBBpEMZT9cKgHBoTZOzPCscznQyx47R999IUUU2uYl.mygmmGN5QOJdrG6wvQNxQfttdi7ys+EiwfssMLMMwexexeBFbvAwq9puJtzktTC872r1g8SNZnPgv.CL.dvG7AwgNzgZH5Y+jqtzRKgwFaLjOedDxPCARItdNe7u+cJ.A.1xli8qZgDPFDDDvXrRM2byYat4l2lRo1u8a+120X.RMMMut6t6cZu81WiPH4TUU6fPH5NNNDgPfVasUb+2+8iidzihN6rSDMZTv4bDJTHv4bjMaVDNbXjNcZXZZBeeejLYR7.OvCfToRgG6wdLL+7yic1YGTrXQToREDJTHDJTHjJUJzQGcfjISted9QPPPCUlW8pWE+jexOA4xkqgpSoTBGtDKVJ.DPfJEfR1kEJDBotttSyM2btVZok0BEJzNRoz6SWvzF.vdtA90qWu3gNzgV4.G3.qs81a2CmyC0TSMo1e+8SFYjQv8ce2GhEKF788QPP.LMMQwhEw0t10vzSOMLMMwYNyYvoO8oQ3vggiiCZpolvoN0ovvCOLVbwEw1auMxmOOJVrHrrrZ..wiGe28w2a2DFiAUUUDJTHToREL6ryBcc8FpTA.zH.pz8b+PizsI4bd.iwJO5nitV5zoWwyyqXtb4tsRj8okBycccqb7ie7LG5PGZgb4xcv3wiGOc5zJequ02hL3fChZ0pAWWWHkRHkRTnPA7QezGge4u7WhEVXA..ToREXXXfgGd3FxOsssgqqKZs0VQSM0D5s2dQPPPiE69tW6Gf7lcohDIBNzgNDN0oNEld5ogss8sjP06PanJ888cZokV1tqt5Zg3wimgy4UxlM6sUXjaQb7YO6YQlLYjwiGmtyN6DY4kWt0uy246z7C7.OfokkE0vvfv47Fk1JSlL37m+73hW7hnXwhMxQ2pqtJlc1YgiiCRmNMRjHQicHDBQiE79kEC.MpefttdCkkVVVM.gToRgDIRfwFaLTpTInpp9oWKMbkCBBBBEJzNG5PGZxScpScwnQid8XwhU3O+O+Om+oqT7sv.1yMHX0UWs3i+3O97G3.GXZ.zkkkU3pUqFQSSiEMZTrxJqfO7C+PL1XigUVYkFk+9ls1yN6rnRkp3C+3OAGbvAvwFdXzWe8AEEEjHQBnqqCaaaToRETrXQTpTITnPAr95qiIlXBDMZT7jO4Sh96uenqqCCCCLxHifm4YdF7S+o+TjMaVDIRjae0KkBGGm581auYezG8QmNVrXyqppVrZ0p2wNF4NUaPAmyq2We8ks2d685SO8zGnToRIMMM0WYkULbccIe7G+w3C9fO.YxjAVVVMRL4tpCALsrfqOGyrvh3F2353JW5SvDieTbvCNHLLLPpTofgoIbbbgc8Znb4xnToRnXwhHa1rXlYlAlllfwXMXPTJEIRj.O+y+7X80WGas0VMTituqfTJktttds1Zq4O1wN1r82e+WG.YqUqV8+z+z+z6XuDda.v9ACWXgEx666OShDIRmKWtVKUpT3ImbRkKcoKoL6ryR788QrXw9ze28LC.IsTvgaNFRZl.yuiO9jKeUb4Keoc6C.g.DoDTJYOI1+559yXLDNbXTudcbgKbAbO2y8f3wiinQiBoTh96ue7POzCgkVZIr3hKdychlD.ALFq7HiLxhiN5niKDhYpWud93wieW6O.5c5CAfv111VHDYhDIx3pppi+Iexmrxq+5ud0kWdY996MeG+hR.FE3o5QG+mOSS3e2CEECkTE1hcqimooIX5VnoHgQuohfPVlPW2nQz88cizzzfqqK9w+3eLVXgEP3vgazGAO5i9n3Lm4LMprL.fPH3DBoZpToVYfAFX7VZokwAPl3wia+hu3KdW6jz6XCRrOKHa1rkpWu9barwFwuxUtRrkVZISMMstiDIRHBgbaYWPHAb3R7cOrI9WNZHLXBEPUH3I60.yWjiEKE.m.I5IlB9VCYfS0gJ94K5g2ZYWjol.gU+0wy2u3pSM0T38du2CczQGnkVZAdddHVrX3du26ESM0TXrwFC0pUiGDDTu0VacsyblyLde802m.f4pWudo+3+3+36p0+tB.2DH3tvBKr8ANvAl7nG8nQVe80srssUkRYGDBwB2kdLRgPftBAFZD3KA9JCZfUqxwOXh53jsofmrWc7sGx.GJACGLFCU8EX6EbwMevi8ioDDDfewu3WfjIShm+4edv4bXaaiCbfCfm8YeVL4jSxKWtb8d6s20O8oO8Dm5Tm5iTUUmz11d63wi69apU49LaStyd1yhqd0qFbjibD2jIS5t0VagxkKaTqVMKFiouGKfz3+MAfQIXlBAPgPv8mVEdbfzMQgDR3xA9yF0BO+gLQ5v61tboLIXpc3Xp7AvkuqRtaxH.UUUjMaVHkRzSO8.KKKPHDr5pqJ46Vd45LFa86+9u+w+JekuxETTT9Daa6kGbvAq9U+pe0eiML4mI.btycN7W+W+WKmat4BRmNsSmc1Y8rYyJVe80UcbbLUUU0kRoBcudVa+BdV1CPiQPGgYnkPDPAAwMY3A6TC8zDCZD.cJAABIdyk8wOYNOLWIAzX+5BjdyQ2YLFbbbP0pUwgO7gwVaskjy4A.nloo4ZiLxHie3Ce3Knnn7QDBYQaa6xuvK7Bet5a3eisJ64N24v26688jarwF9s0Va1czQG0LLLbymOOYiM1PiRoZ999J6kuc..hTBTzUfp9Rb5zpHpFEJDBhaPfoBAgUAtQt.7+Xba7+cFGLUdA3xa05eyi8SId0pUkUqVUlHQBOcc8RbNe4CdvCdoN6ryKXXX7wpppK544U569c+tet6W3OW8J74N24vK8RujXokVxangFpdxjIqXXXT2222uZ0pLgPnr2S+AiPHDEJgTwShBNBzQXF5LBEw0IvOPhxtB7QY8w+qqYie3ztX1Bb3K2sk4uai8p3jv11lWnPg5s1ZqamLYxYapol9HCCi2mPHWB.KkJUpRO4S9jegZV5O2cK99pDe629sKkLYxfm8Ye15c2c2EdkW4U1d1YmcjZ0pM.gPZG.QDBgtgBiYyIj+2W2kzYXJZtGUrdEAFeKe78thKdu07foJEgzn2zbbaSqTJkRNmy0zzbAPkRkJsNkRmqolZZbMMsqJDhYDBwlJJJ0N4IO4W31k+2pGXhW9keYZrXwL777Zpb4xc+q9U+pgd228cORlLYNjhhR2JJJoHDRXaaacUcSk+v1MomtCExuv1GWYMeRlJh8N01s8GPdSuJpWudflllqqqa0lZpobCO7vqL5nidiibjib8lZpooIDxJZZZEKUpjyK9hu3u6efI9T.A8ke4051cs..P.QmDQAQ0WVwxxJzN6rSxYmc1tVZokFX4kW9fKrvB8Vtb4N788SFnnE8XI0LRIYpYH0YYKqPILMpgBgbSsImLHHPr2Emy49555NFFFk6ryNy2au8lMc5zK1byMOSWc00bVVVqZYYkud850lbxICN24N2u+djY9Tf.4ke4Wl1byMqFDDDJa1rImat4Ze4kWtqM2bytKUpTmN0p01V0bSVtZsvLozjwEFDhuVPP.iPHTSSSAmy4JJJd555Nlll1gCGtpooY9ToRsQqs1Zl96u+URkJ0p.Xc.jWHD0BEJj+usV8uz.fOMP..M.XRozHUpTIdlLYRswFazRtb4Z9Mdi2H9QNxQh533DtZ0pldddZ555r3wiyUTT7.fchDIptzRKU94dtmqPhDI11zzbKee+b.nfqqaE.X2UWc48kwBe+wW5O3j6ADLGGGUWWWcOOuPbNOTPPfUPPfoTJM777T2S+.gRoR.DHkRe.3nnnXyXr5lll0bbbpIDB2pUq5ezidT9WlK78G+N6YGdevnPgBTMMMFiwXDBgEDDPCBBnZZZjxkKC..CCCohhhnb4xBOOOdpTo3ddd73wiK9cwh9lG+d+gm9rm8r2047rm8r+d+gm9ezO9+AL8BkDE9qfNq.....jTQNQjqBAlf"/>
+    <mappings>
+      <input-mappings>
+        <mapping name="Play / Pause deck A">
+          <events>
+            <midi type="Note" parameter="0x3" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].PlayPause"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Play / Pause deck B">
+          <events>
+            <midi type="Note" parameter="0x4" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].PlayPause"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Cue deck A">
+          <events>
+            <midi type="Note" parameter="0xb" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Cue"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Cue deck B">
+          <events>
+            <midi type="Note" parameter="0xc" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Cue"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX1 assign deck A">
+          <events>
+            <midi type="Note" parameter="0x7" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x1].InputChannel"/>
+          </controls>
+          <preset name="Direct Integer Button">
+            <parameters>
+              <parameter object="action-0" key="integer" value="2"/>
+              <parameter object="dispatch" key="interpretCCasNote" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX1 assign deck B">
+          <events>
+            <midi type="Note" parameter="0x8" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x1].InputChannel"/>
+          </controls>
+          <preset name="Direct Integer Button">
+            <parameters>
+              <parameter object="action-0" key="integer" value="3"/>
+              <parameter object="dispatch" key="interpretCCasNote" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX2 assign deck A">
+          <events>
+            <midi type="Note" parameter="0x9" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x2].InputChannel"/>
+          </controls>
+          <preset name="Direct Integer Button">
+            <parameters>
+              <parameter object="action-0" key="integer" value="2"/>
+              <parameter object="dispatch" key="interpretCCasNote" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX2 assign deck B">
+          <events>
+            <midi type="Note" parameter="0xa" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x2].InputChannel"/>
+          </controls>
+          <preset name="Direct Integer Button">
+            <parameters>
+              <parameter object="action-0" key="integer" value="3"/>
+              <parameter object="dispatch" key="interpretCCasNote" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX2 On / Off">
+          <events>
+            <midi type="Note" parameter="0xe" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x2].OnOff"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Snap">
+          <events>
+            <midi type="Note" parameter="0x31" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(SyncTools).SnapOnOffControl"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Quantize">
+          <events>
+            <midi type="Note" parameter="0x71" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(SyncTools).QuantizeOnOffControl"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Bend down deck A">
+          <events>
+            <midi type="Note" parameter="0x47" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].BendDown"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Bend up deck A">
+          <events>
+            <midi type="Note" parameter="0x49" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].BendUp"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Bend up deck B">
+          <events>
+            <midi type="Note" parameter="0x4a" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].BendUp"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Bend down deck B">
+          <events>
+            <midi type="Note" parameter="0x48" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].BendDown"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Set as master deck A">
+          <events>
+            <midi type="Note" parameter="0x45" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].SetMaster"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Sync with master deck A">
+          <events>
+            <midi type="Note" parameter="0x5" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].SyncWithMaster"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Set as master deck B">
+          <events>
+            <midi type="Note" parameter="0x46" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].SetMaster"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="FX1 1">
+          <events>
+            <midi type="CC" parameter="0x3" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x1].Amount"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX1 On / Off">
+          <events>
+            <midi type="Note" parameter="0xd" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x1].OnOff"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX1 2">
+          <events>
+            <midi type="CC" parameter="0x5" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x1].Depth"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX2 1">
+          <events>
+            <midi type="CC" parameter="0x4" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x2].Amount"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX2 2">
+          <events>
+            <midi type="CC" parameter="0x6" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Fx)[0x2].Depth"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX1 dry/wet">
+          <events>
+            <midi type="CC" parameter="0x1" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).FilterA"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="FX2 dry/wet">
+          <events>
+            <midi type="CC" parameter="0x2" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).FilterB"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Shift hot cue 1 deck A">
+          <events>
+            <midi type="Note" parameter="0x5b" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator1Clear"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Hot cue 2 deck A">
+          <events>
+            <midi type="Note" parameter="0x1f" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator2Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Hot cue 1 deck A">
+          <events>
+            <midi type="Note" parameter="0x1b" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator1Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Hot cue 3 deck A">
+          <events>
+            <midi type="Note" parameter="0x23" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator3Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Hot cue 4 deck A">
+          <events>
+            <midi type="Note" parameter="0x27" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator4Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Shift hot cue 1 deck A">
+          <events>
+            <midi type="Note" parameter="0x5f" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator2Clear"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Shift hot cue 3 deck A">
+          <events>
+            <midi type="Note" parameter="0x63" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator3Clear"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Shift hot cue 4 deck A">
+          <events>
+            <midi type="Note" parameter="0x67" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].Locator4Clear"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Channel fader deck A">
+          <events>
+            <midi type="CC" parameter="0x15" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).VolumeA"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Gain know deck A">
+          <events>
+            <midi type="CC" parameter="0xd" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).GainA"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Low knob deck A">
+          <events>
+            <midi type="CC" parameter="0x13" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).BassGainA"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Mid knob deck A">
+          <events>
+            <midi type="CC" parameter="0x11" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).MidGainA"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Hi knob deck A">
+          <events>
+            <midi type="CC" parameter="0xf" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).TrebleGainA"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Cue button deck A">
+          <events>
+            <midi type="Note" parameter="0x2f" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).CueMonitorA"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Gain knob deck B">
+          <events>
+            <midi type="CC" parameter="0xe" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).GainB"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Low know deck B">
+          <events>
+            <midi type="CC" parameter="0x14" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).BassGainB"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Mid knob deck B">
+          <events>
+            <midi type="CC" parameter="0x12" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).MidGainB"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Hi knob deck B">
+          <events>
+            <midi type="CC" parameter="0x10" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).TrebleGainB"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Cue button deck B">
+          <events>
+            <midi type="Note" parameter="0x30" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).CueMonitorB"/>
+          </controls>
+          <preset name="Toggler Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Relative mode deck A">
+          <events>
+            <midi type="Note" parameter="0x43" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].RelativeModeTrigger"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Absolute mode deck A">
+          <events>
+            <midi type="Note" parameter="0x4b" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x1].AbsoluteModeTrigger"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Absolute mode deck B">
+          <events>
+            <midi type="Note" parameter="0x4c" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].AbsoluteModeTrigger"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Relative mode deck B">
+          <events>
+            <midi type="Note" parameter="0x44" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].RelativeModeTrigger"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Hot cue 1 deck B">
+          <events>
+            <midi type="Note" parameter="0x1d" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator1Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Hot cue 2 deck B">
+          <events>
+            <midi type="Note" parameter="0x21" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator2Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Hot cue 3 deck B">
+          <events>
+            <midi type="Note" parameter="0x25" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator3Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Hot cue 4 deck B">
+          <events>
+            <midi type="Note" parameter="0x29" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator4Control"/>
+          </controls>
+          <preset name="Holder Button">
+            <parameters>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Shift hot cue 1 deck B">
+          <events>
+            <midi type="Note" parameter="0x5d" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator1Clear"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Shift hot cue 2 deck B">
+          <events>
+            <midi type="Note" parameter="0x61" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator2Clear"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Shift hot cue 3 deck B">
+          <events>
+            <midi type="Note" parameter="0x65" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator3Clear"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Shift hot cue 4 deck B">
+          <events>
+            <midi type="Note" parameter="0x69" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Player)[0x2].Locator4Clear"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Load deck A">
+          <events>
+            <midi type="Note" parameter="0x1" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Tracker).LoadInPlayerA"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Load deck B">
+          <events>
+            <midi type="Note" parameter="0x2" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Tracker).LoadInPlayerB"/>
+          </controls>
+          <preset name="Trigger Note">
+            <parameters/>
+          </preset>
+        </mapping>
+        <mapping name="Volume fader deck B">
+          <events>
+            <midi type="CC" parameter="0x16" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).VolumeB"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+        <mapping name="Crossfader">
+          <events>
+            <midi type="CC" parameter="0x18" channel="0x1"/>
+          </events>
+          <controls>
+            <control alias="fam(Mixer).Crossfader"/>
+          </controls>
+          <preset name="Direct Fader/Knob">
+            <parameters>
+              <parameter object="action-0" key="action" value="SetNormalTakeOver"/>
+              <parameter object="dispatch" key="centerCCandPWvalueRange" value="64 64"/>
+              <parameter object="dispatch" key="useCenteredCCandPW" value="off"/>
+              <parameter object="invert" key="on" value="off"/>
+            </parameters>
+          </preset>
+        </mapping>
+      </input-mappings>
+      <output-mappings>
+        <mapping>
+          <control alias="fam(Player)[0x1].PlayPause" value="true"/>
+          <midi type="Note" parameter="0x3" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].PlayPause" value="false"/>
+          <midi type="Note" parameter="0x3" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].CueDisplayOutput" value="true"/>
+          <midi type="Note" parameter="0xb" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].CueDisplayOutput" value="false"/>
+          <midi type="Note" parameter="0xb" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Fx)[0x1].OnOff" value="true"/>
+          <midi type="Note" parameter="0xd" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Fx)[0x1].OnOff" value="false"/>
+          <midi type="Note" parameter="0xd" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].PlayPause" value="true"/>
+          <midi type="Note" parameter="0x4" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].PlayPause" value="false"/>
+          <midi type="Note" parameter="0x4" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].CueDisplayOutput" value="true"/>
+          <midi type="Note" parameter="0xc" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].CueDisplayOutput" value="false"/>
+          <midi type="Note" parameter="0xc" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Fx)[0x2].OnOff" value="true"/>
+          <midi type="Note" parameter="0xe" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Fx)[0x2].OnOff" value="false"/>
+          <midi type="Note" parameter="0xe" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(SyncTools).SnapOnOffControl" value="true"/>
+          <midi type="Note" parameter="0x31" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(SyncTools).SnapOnOffControl" value="false"/>
+          <midi type="Note" parameter="0x31" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(SyncTools).QuantizeOnOffControl" value="true"/>
+          <midi type="Note" parameter="0x71" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(SyncTools).QuantizeOnOffControl" value="false"/>
+          <midi type="Note" parameter="0x71" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Fx)[0x1].InputChannel" value="2"/>
+          <midi type="note" parameter="0x7" channel="0x1" value="127"/>
+          <midi type="note" parameter="0x8" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Fx)[0x1].InputChannel" value="3"/>
+          <midi type="note" parameter="0x7" channel="0x1" value="0"/>
+          <midi type="note" parameter="0x8" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Fx)[0x2].InputChannel" value="2"/>
+          <midi type="note" parameter="0x9" channel="0x1" value="127"/>
+          <midi type="note" parameter="0xa" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Fx)[0x2].InputChannel" value="3"/>
+          <midi type="note" parameter="0x9" channel="0x1" value="0"/>
+          <midi type="note" parameter="0xa" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].Locator1Control" value="true"/>
+          <midi type="Note" parameter="0x1b" channel="0x1" value="127"/>
+          <midi type="Note" parameter="0x5b" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].Locator1Control" value="false"/>
+          <midi type="Note" parameter="0x1b" channel="0x1" value="0"/>
+          <midi type="Note" parameter="0x5b" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].Locator2Control" value="true"/>
+          <midi type="Note" parameter="0x1f" channel="0x1" value="127"/>
+          <midi type="Note" parameter="0x5f" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].Locator2Control" value="false"/>
+          <midi type="Note" parameter="0x1f" channel="0x1" value="0"/>
+          <midi type="Note" parameter="0x5f" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].Locator3Control" value="true"/>
+          <midi type="Note" parameter="0x23" channel="0x1" value="127"/>
+          <midi type="Note" parameter="0x63" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].Locator3Control" value="false"/>
+          <midi type="Note" parameter="0x23" channel="0x1" value="0"/>
+          <midi type="Note" parameter="0x63" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].Locator4Control" value="true"/>
+          <midi type="Note" parameter="0x27" channel="0x1" value="127"/>
+          <midi type="Note" parameter="0x67" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x1].Locator4Control" value="false"/>
+          <midi type="Note" parameter="0x27" channel="0x1" value="0"/>
+          <midi type="Note" parameter="0x67" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].Locator1Control" value="true"/>
+          <midi type="Note" parameter="0x1d" channel="0x1" value="127"/>
+          <midi type="Note" parameter="0x5d" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].Locator1Control" value="false"/>
+          <midi type="Note" parameter="0x1d" channel="0x1" value="0"/>
+          <midi type="Note" parameter="0x5d" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].Locator2Control" value="true"/>
+          <midi type="Note" parameter="0x21" channel="0x1" value="127"/>
+          <midi type="Note" parameter="0x61" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].Locator2Control" value="false"/>
+          <midi type="Note" parameter="0x21" channel="0x1" value="0"/>
+          <midi type="Note" parameter="0x61" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].Locator3Control" value="true"/>
+          <midi type="Note" parameter="0x25" channel="0x1" value="127"/>
+          <midi type="Note" parameter="0x65" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].Locator3Control" value="false"/>
+          <midi type="Note" parameter="0x25" channel="0x1" value="0"/>
+          <midi type="Note" parameter="0x65" channel="0x1" value="0"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].Locator4Control" value="true"/>
+          <midi type="Note" parameter="0x29" channel="0x1" value="127"/>
+          <midi type="Note" parameter="0x69" channel="0x1" value="127"/>
+        </mapping>
+        <mapping>
+          <control alias="fam(Player)[0x2].Locator4Control" value="false"/>
+          <midi type="Note" parameter="0x29" channel="0x1" value="0"/>
+          <midi type="Note" parameter="0x69" channel="0x1" value="0"/>
+        </mapping>
+      </output-mappings>
+    </mappings>
+  </controller>
+</main>
